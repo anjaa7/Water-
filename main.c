@@ -411,5 +411,4 @@ int main() {
 
 	return 0;
 }
-asp_2.txt
-Displaying asp_2.txt.
+
