@@ -1,25 +1,4 @@
 
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-asp 
-Meet
-New meeting
-Join a meeting
-Hangouts
-
-2 of many
-ASP 2. domaci
-Inbox
-
-Petar Vasiljevic <petarvasiljevic2001@gmail.com>
-Attachments
-Thu, Apr 21, 3:15 PM
-to me
-
-
-Attachments area
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
